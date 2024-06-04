@@ -1,0 +1,7 @@
+
+;	css:S4649 "&Unexpected missing generic font family(Îâé¨
+@	css:S4649$"&Unexpected missing generic font family(òòëåÿÿÿÿÿ
+{	css:S4666ä1"`Unexpected duplicate selector ".fab,
+.fa-brands", first used at line 34 (no-duplicate-selectors)(ğà™úÿÿÿÿ
+[	css:S4666À="EUnexpected duplicate selector ":root, :host", first used at line 6361(êùõğ
+[	css:S4666Î="EUnexpected duplicate selector ":root, :host", first used at line 6361(êùõğ
