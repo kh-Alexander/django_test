@@ -45,8 +45,6 @@ b
 app/os,f/b/fbc8109ccd63c1a29e842a91629a33ec803d085c
 =
 app/config.py,e/4/e455b71ce56a02eb2baf1c1e4fea2d900027e3d3
->
-app/.gitignore,5/1/51e1c5d383dfaa35e0e7e5873a0a99355a86880f
 8
 app/.env,b/1/b17d0739894748a962de961862627cda63749c57
 N
@@ -91,3 +89,8 @@ X
 (app/store/templates/store/payment_3.html,3/a/3acdaaa1b656839a784ed4d022f91a2c5af7c53a
 c
 3app/store/templates/store/includes/search_form.html,7/3/739136be6f25b0612470b4b553977122a907a9cd
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+D
+app/requirements.txt,b/a/bad0e8b06e94609c24277c5f7b6b72a912d964b3
