@@ -1,0 +1,26 @@
+
+    <div class="container">
+
+        {% for product in products  %}
+
+        <div class="productContainer">
+            <div class="thumbnail">
+                <img src="{{product.picture.url}}" alt="">
+            </div>
+
+            <div class="action">
+
+                <p>{{product.name}}</p>
+                <p>${{product.price}}</p>
+
+                <button class="btn_1" value="{{product.id}}">Добавить в карзину</button>
+                <button class="btn_2" value="{{product.id}}">Убрать из карзины</button>
+                <button class="btn_3" value="{{product.id}}">Очистить корзину</button>
+            </div>
+
+        </div>
+
+
+        {% endfor %}
+
+    </div>
